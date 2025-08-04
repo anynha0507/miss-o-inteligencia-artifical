@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma língua diferente da que você está acostumado, um idioma que parece totalmente iferente do que você já escutou, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Você se encontra em uma floresta conhecida por ser conhceido por suas árvores antigas e ruidos que ecoam no interior dela, uma lenda diz que há um tesouro escondido e aguarda corajos para desvendar seus segredos, o sol começa a se por atigindo o céu de laranja e roxo. Qual o primeiro pensamento?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Ir para esquerda, pelo caminho mais escuro",
+                afirmacao: "Leva a uma clareira úmida com uma árvore grotesca e oca no centro, sob a fraca luz da lua. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Ir para direita, caminho claro e ígreme",
+                afirmacao: "Leva a um planalto rochoso com uma torre de pedra desmoronada, com uma entrada escura."
             }
         ]
     },
