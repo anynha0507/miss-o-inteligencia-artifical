@@ -19,41 +19,41 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "O ar da floresta se torna pesado, carregado de um perfume doce e floral, que te atrai para uma fonte borbulhante. A luz do luar ilumina a água, revelando brilhos estranhos. Qual atitude você toma?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: " Beber da água cintilante..",
+                afirmacao: "Uma sensação de calor se espalha pelo seu corpo, e você sente seus sentidos se aguçarem, como se pudesse ouvir o sussurro das folhas a quilômetros de distância."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: " Ignorar a fonte e procurar um caminho seco.",
+                afirmacao: "Ao se afastar, você encontra uma trilha estreita que leva a uma gruta escondida atrás de uma cachoeira, onde a escuridão parece ainda mais profunda."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Você chega a um grande campo aberto, com uma névoa rasteira que obscurece a paisagem. No centro, há uma fogueira apagada, rodeada por troncos de árvores. O único som é o grito distante de uma coruja. Qual atitude você toma?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Acender a fogueira com a madeira que você coletou.",
+                afirmacao: "Assim que as chamas se acendem, um feixe de luz sobe para o céu, revelando a silhueta de uma antiga constelação que não está em nenhum mapa."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Procurar por outros sinais na névoa.",
+                afirmacao: "SVocê encontra um totem de madeira esculpido com símbolos estranhos. Ao tocá-lo, a névoa se dissipa instantaneamente, revelando um caminho de pedra em direção ao leste."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Enquanto você caminha, a trilha se torna mais estreita e as árvores se fecham sobre sua cabeça. Você ouve o som de um riacho e vê a luz do luar refletindo na água à frente. Há uma ponte de madeira velha e bamba sobre o riacho. E agora?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Atravessar a ponte, com cuidado.",
+                afirmacao: "A ponte range e balança, mas você consegue atravessar. Do outro lado, você encontra uma trilha que leva a uma gruta escondida atrás de uma cachoeira, onde a escuridão parece ainda mais profunda."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Procurar um local para pular sobre as pedras.",
+                afirmacao: "A água é mais funda e escorregadia do que parecia. Ao pular, você escorrega e cai, mas consegue se segurar em uma raiz. Você encontra um anel de ouro maciço com uma pedra vermelha cravada em uma fenda da raiz."
             }
         ]
     },
