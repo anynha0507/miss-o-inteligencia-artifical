@@ -58,15 +58,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Você continua sua jornada, a floresta escura e silenciosa, com apenas o som do seu próprio coração batendo no peito. De repente, você se depara com duas estátuas de pedra de guerreiros antigos, uma apontando para o leste e a outra para o oeste. A do leste parece ter musgo e hera crescendo por todo o corpo, enquanto a do oeste está coberta de poeira e teia de aranha. O que você faz? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Seguir na direção apontada pela estátua do leste.",
+                afirmacao: "A trilha se torna úmida e coberta de vegetação. Você caminha por horas até encontrar um grande carvalho, com uma porta esculpida no seu tronco."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Seguir na direção apontada pela estátua do oeste.",
+                afirmacao: "A trilha se torna empoeirada e o ar seco. Você anda por um tempo, até encontrar uma escada de pedra que desce para um poço escuro. "
             }
         ]
     },
